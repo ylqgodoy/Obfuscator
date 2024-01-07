@@ -1,0 +1,2 @@
+# Obfuscator
+Obfuscator para py
